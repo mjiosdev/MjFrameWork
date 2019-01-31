@@ -9,7 +9,7 @@ DESC
   s.license      = ""
   s.author       = { "bruceMJ" => "mjdev@live.in" }
   s.source       = { :git => "https://github.com/mjiosdev/KnobFramework" }
-  s.source_files  = "Source/**/*.swift"
+  s.source_files  = "MjFrameWork"
   s.exclude_files = "Classes/Exclude"
 
 end
