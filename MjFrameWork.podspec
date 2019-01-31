@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
 s.description  = <<-DESC
 A much much longer description of MyFramework.
 DESC
-  s.homepage     = "http://EXAMPLE/MyFramework"
+  s.homepage     = "http://madhans.000webhostapp.com/"
   s.license      = ""
   s.author       = { "bruceMJ" => "mjdev@live.in" }
   s.source       = { :path => '.' }
