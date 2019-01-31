@@ -9,6 +9,6 @@ DESC
   s.license      = ""
   s.author       = { "bruceMJ" => "mjdev@live.in" }
   s.source       = { :path => '.' }
-  s.source_files  = "Source/**/*.swift"
+  s.source_files  = "MjFrameWork/*.swift"
 
 end
