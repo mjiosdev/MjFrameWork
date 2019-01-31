@@ -8,8 +8,7 @@ DESC
   s.homepage     = "http://EXAMPLE/MyFramework"
   s.license      = ""
   s.author       = { "bruceMJ" => "mjdev@live.in" }
-  s.source       = { :git => "https://github.com/mjiosdev/KnobFramework" }
-  s.source_files  = "MjFrameWork"
-  s.exclude_files = "Classes/Exclude"
+  s.source       = { :path => '.' }
+  s.source_files  = "Source/**/*.swift"
 
 end
